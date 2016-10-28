@@ -43,7 +43,7 @@ Terminal emulator requirements
 
 Powerline uses several special glyphs to get the arrow effect and some custom 
 symbols for developers. This requires either a symbol font or a patched font 
-installed. Used terminal emulator must also support either patched fonts or 
+installed. The used terminal emulator must also support either patched fonts or 
 fontconfig for Powerline to work properly.
 
 :ref:`24-bit color support <config-common-term_truecolor>` can also be enabled 
