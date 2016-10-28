@@ -62,6 +62,6 @@ Fonts installation
 To install patched font double-click the font file in Finder, then click 
 :guilabel:`Install this font` in the preview window.
 
-After installing the patched font MacVim or terminal emulator (whatever 
-application powerline should work with) need to be configured to use the patched 
+After installing the patched font, MacVim or the terminal emulator (whatever 
+application powerline should work with) needs to be configured to use the patched 
 font. The correct font usually ends with *for Powerline*.
